@@ -16,7 +16,11 @@
 
 ### ✨ [Demo](https://discord.com/api/oauth2/authorize?client_id=865203502245609472&permissions=8&scope=bot%20applications.commands)
 
-## Install
+## Installation
+
+```sh
+git clone https://github.com/MrVenomYT/systemous
+```
 
 ```sh
 npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
@@ -25,7 +29,7 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 ## Usage
 
 ```sh
-npm i
+npm start
 ```
 
 ## Run tests
