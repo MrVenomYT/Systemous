@@ -61,4 +61,4 @@ Copyright © 2022 [MrVenomYT](https://github.com/MrVenomYT).<br />
 This project is [MIT](https://github.com/MrVenomYT/systemous/blob/master/LICENSE) licensed.
 
 ***
-_The Systemous was created with ❤️ by [Muhammad Hasil](https://portfolio-hasil.herokuapp.com/)_" 
+_The Systemous was created with ❤️ by [Muhammad Hasil](https://portfolio-hasil.herokuapp.com/)_
