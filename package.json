@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/rest": "^1.0.0",
     "@iamtraction/google-translate": "^1.1.2",
     "@tmware/status-rotate": "^1.2.10",
