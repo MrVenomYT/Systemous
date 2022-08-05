@@ -12,9 +12,10 @@
   </a>
 </p>
 
-> Full friendly moderation bot
+> Full friendly moderation bot to keep the environment of your discord server better and family friendly
 
-### ✨ [Demo](https://discord.com/api/oauth2/authorize?client_id=865203502245609472&permissions=8&scope=bot%20applications.commands)
+### ✨ [Invite](https://discord.com/api/oauth2/authorize?client_id=865203502245609472&permissions=8&scope=bot%20applications.commands)
+### ✨ [Vote](https://top.gg/bot/865203502245609472/vote)
 
 ## Installation
 
